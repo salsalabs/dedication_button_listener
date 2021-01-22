@@ -17,5 +17,5 @@ This solution is very specific to a single client.  You'll need to consider this
 
 ## Question? Comments?
 
-Please send mail to [Salsa Support](mailto:support@salsalabs.com) with any questions or comments. Provide good examples and clear issue descriptions for best results.
+Please send mail to [support@salsalabs.com](mailto:support@salsalabs.com) with any questions or comments. Be sure to include examples, URLs and clear problem statements.
 
