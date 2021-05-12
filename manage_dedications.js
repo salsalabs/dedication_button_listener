@@ -1,5 +1,5 @@
 (() => {
-    // Script to hide/show dedication fields on APDA's Engage fundraising forms.
+    // Script to hide/show dedication fields on an Engage fundraising forms.
     // An event handler shows/hides by responding to clicks on the dedication buttons.
     // * A click on the None button hides and clears the dedication fields.
     // * A click on the other buttons shows the dedication fields.
